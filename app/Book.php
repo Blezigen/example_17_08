@@ -10,6 +10,7 @@ class Book extends Model
         "title",
         "description",
         "year",
+        "author_id",
     ];
 
 
