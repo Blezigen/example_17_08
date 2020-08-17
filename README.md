@@ -8,5 +8,5 @@ install:
 
 
 API:
-
-`php artisan route:list`
+1) Headers: `Accept: application/json`
+2) `php artisan route:list`
